@@ -181,18 +181,6 @@
       ],
       "attackSound":"shot"
    },
-   {
-	"name": "Scout",
-	"unitType": "Scout",
-	"movement": 2,
-	"strength": 5,
-	"cost": 25,
-	"upgradesTo":"Scout Car",
-	"obsoleteTech": "Steam Power",
-	"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-	"promotions": ["Ignore terrain cost"],
-	"attackSound": "nonmetalhit"
-	},
 	{
       		"name":"Scout Car",
 	      	"unitType":"Scout",
@@ -236,7 +224,7 @@
       "attackSound":"nonmetalhit"
    },
    {
-      "name":"Grenadier",
+      "name":"Grenadier(Ranged)",
       "unitType":"Ranged Gunpowder",
       "movement":2,
       "strength":20,
