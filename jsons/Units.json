@@ -1,4 +1,27 @@
 [
+	{
+      "name":"Bandits",
+      "unitType":"Sword",
+      "movement":2,
+      "strength":10,
+      "cost":70,
+      "requiredTech":"Iron Working",
+      "upgradesTo":"Mercenaries",
+      "hurryCostModifier":20,
+      "obsoleteTech":"Steel",
+      "attackSound":"metalhit"
+   },
+   {
+      "name":"Mercenaries",
+      "unitType":"Sword",
+      "movement":2,
+      "strength":19,
+      "cost":100,
+      "requiredTech":"Steel",
+      "upgradesTo":"Militia",
+      "obsoleteTech":"Rifling",
+      "attackSound":"metalhit"
+   },
    {
       "name":"Militia",
       "unitType":"Gunpowder",
@@ -22,14 +45,15 @@
       "attackSound":"shot"
    },
    {
-      "name":"Conscript",
-      "unitType":"Gunpowder",
-      "movement":2,
-      "strength":58,
-      "cost":240,
-      "requiredTech":"Plastics",
-      "obsoleteTech":"Mobile Tactics",
-      "attackSound":"shot"
+    	"name":"Conscript",
+      	"unitType":"Gunpowder",
+      	"movement":2,
+      	"strength":58,
+      	"cost":240,
+      	"requiredTech":"Plastics",
+		"upgradesTo":"Mechanized Infantry",
+      	"obsoleteTech":"Mobile Tactics",
+      	"attackSound":"shot"
    },
    {
       "name":"Multi Rocket Launcher",
@@ -51,29 +75,7 @@
          "Ranged attacks may be performed over obstacles"
       ]
    },
-   {
-      "name":"Bandits",
-      "unitType":"Sword",
-      "movement":2,
-      "strength":10,
-      "cost":70,
-      "requiredTech":"Iron Working",
-      "upgradesTo":"Mercenaries",
-      "hurryCostModifier":20,
-      "obsoleteTech":"Steel",
-      "attackSound":"metalhit"
-   },
-   {
-      "name":"Mercenaries",
-      "unitType":"Sword",
-      "movement":2,
-      "strength":19,
-      "cost":100,
-      "requiredTech":"Steel",
-      "upgradesTo":"Militia",
-      "obsoleteTech":"Rifling",
-      "attackSound":"metalhit"
-   },
+   
    {
       "name":"Great War Sniper",
       "unitType":"Ranged Gunpowder",
@@ -207,21 +209,6 @@
          "[+150]% Strength <vs [Air] units>"
       ],
       "attackSound":"shot"
-   },
-   {
-      "name":"Battering Ram",
-      "unitType":"Siege",
-      "movement":3,
-      "strength":14,
-      "cost":110,
-      "requiredTech":"Mathematics",
-      "obsoleteTech":"Chemistry",
-      "upgradesTo":"Cannon",
-      "uniques":[
-         "[+150]% Strength <when attacking> <vs cities>",
-         "[-1] Sight"
-      ],
-      "attackSound":"nonmetalhit"
    },
    {
       "name":"Grenadier(Ranged)",
