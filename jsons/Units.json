@@ -89,9 +89,10 @@
       "obsoleteTech":"Plastics",
       "uniques":[
          	"[+200]% Strength <when attacking> <vs [Melee] units>",
-		 "[+100]% Strength <when attacking> <vs [Ranged] units>",
+		"[+100]% Strength <when attacking> <vs [Ranged] units>",
          	"[+200]% Strength <when attacking> <vs [Mounted] units>",
-         	"No defensive terrain bonus"
+         	"No defensive terrain bonus",
+	      	"Improves movement speed on roads"
       ],
       "attackSound":"shot"
    },
@@ -106,7 +107,8 @@
       "requiredTech":"Plastics",
       "uniques":[
          	"[+500]% Strength <when attacking> <vs [non-[Armored]] units>",
-        	"No defensive terrain bonus"
+        	"No defensive terrain bonus",
+	      	"Improves movement speed on roads"
       ],
       "attackSound":"shot"
    },
