@@ -88,10 +88,10 @@
       "upgradesTo":"Sniper",
       "obsoleteTech":"Plastics",
       "uniques":[
-         "[+200]% Strength <when attacking> <vs [Melee] units>",
-         "No defensive terrain bonus",
-         "[+100]% Strength <when attacking> <vs [Ranged] units>",
-         "[+200]% Strength <when attacking> <vs [Mounted] units>"
+         	"[+200]% Strength <when attacking> <vs [Melee] units>",
+		 	"[+100]% Strength <when attacking> <vs [Ranged] units>",
+         	"[+200]% Strength <when attacking> <vs [Mounted] units>",
+         	"No defensive terrain bonus"
       ],
       "attackSound":"shot"
    },
@@ -105,9 +105,9 @@
       "cost":400,
       "requiredTech":"Plastics",
       "uniques":[
-         "[+500]% Strength <when attacking> <vs [Melee] units>",
-         "No defensive terrain bonus",
-         "[+500]% Strength <when attacking> <vs [Ranged] units>"
+         	"[+500]% Strength <when attacking> <vs {[Melee][non-[Armored]} units>",
+			"[+500]% Strength <when attacking> <vs [Ranged] units>",
+        	"No defensive terrain bonus"
       ],
       "attackSound":"shot"
    },
@@ -184,13 +184,13 @@
       "attackSound":"shot"
    },
 	{
-      		"name":"Scout Car",
-	      	"unitType":"Scout",
-	      	"movement":5,
-	      	"strength":35,
-	      	"cost":180,
-	      	"requiredTech":"Steam Power",
-	      	"uniques":[
+      	"name":"Scout Car",
+	    "unitType":"Scout",
+	    "movement":5,
+	    "strength":35,
+	    "cost":180,
+	    "requiredTech":"Steam Power",
+	    "uniques":[
 			"Ignores terrain cost"
 		],
 		"attackSound":"shot"
