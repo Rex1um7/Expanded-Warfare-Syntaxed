@@ -130,7 +130,7 @@ UnitIcons/Bunker Worker
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Trench digger
+UnitIcons/Trench Digger
   rotate: false
   xy: 1226, 2
   size: 100, 100
