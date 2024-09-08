@@ -144,3 +144,23 @@ UnitIcons/Flag Bearer
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+TileSetsUnit.png
+size: 540,1069
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Great War Sniper
+  rotate: false
+  xy: 0, 0
+  size: 540,1069
+  orig: 540,1069
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Great War Sniper
+ rotate: false
+  xy: 0, 0
+  size: 540,1069
+  orig: 540,1069
+  offset: 0, 0
+  index: -1
