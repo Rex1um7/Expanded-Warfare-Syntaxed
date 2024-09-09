@@ -1,3 +1,5 @@
+Added new units Tileset to UnCivGaming/Expanded-Warfare 
+
 [TileSets]
 
 Great War Sniper: https://www.pngwing.com/en/free-png-nkoby
@@ -11,3 +13,25 @@ Grenadier(Ranged): https://www.pngwing.com/en/free-png-tblsa
 Multi Rocket Launcher: https://www.pngwing.com/en/free-png-tsizd
 
 Scout Car (Sdkfz 251): https://www.pngegg.com/en/png-ylrwj/download
+
+Tank Destroyer: https://www.pngwing.com/en/free-png-nqbfv
+
+Mercenaries:
+
+Militia:
+
+Great War Recruit:
+
+Conscript:
+
+Rocket Launcher:
+
+Trench Digger:
+
+Bunker Worker:
+
+Flag Bearer:
+
+APC:
+
+AA Vehicle:
