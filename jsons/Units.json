@@ -51,7 +51,7 @@
       	"strength":58,
       	"cost":240,
       	"requiredTech":"Plastics",
-		"upgradesTo":"Mechanized Infantry",
+	"upgradesTo":"Infantry",
       	"obsoleteTech":"Mobile Tactics",
       	"attackSound":"shot"
    },
