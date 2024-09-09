@@ -152,15 +152,29 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Great War Sniper
   rotate: false
-  xy: 0, 0
+  xy: 814, 0
   size: 540,1069
   orig: 540,1069
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Sniper
  rotate: false
-  xy: 0, 0
+  xy: 814, 0
   size: 540,1069
   orig: 540,1069
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sniper
+  rotate: false
+  xy: 0, 307
+  size: 806,762
+  orig: 806,762
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sniper
+ rotate: false
+  xy: 0, 307
+  size: 806,762
+  orig: 806,762
   offset: 0, 0
   index: -1
