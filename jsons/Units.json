@@ -107,7 +107,7 @@
       "cost":400,
       "requiredTech":"Plastics",
       "uniques":[
-         	"[+500]% Strength <when attacking> <vs [{non-[Armored]} {non-City}] units>",
+         	"[+500]% Strength <when attacking> <vs [{non-[Armored]} {Non-City}] units>",
         	"No defensive terrain bonus",
 	      	"[+1] Movement <in [Road] tiles>",
 	      	"[+1] Movement <in [Railroad] tiles>"
