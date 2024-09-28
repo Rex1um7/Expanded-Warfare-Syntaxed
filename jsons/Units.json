@@ -188,15 +188,15 @@
    },
 	{
       	"name":"Scout Car",
-	    "unitType":"Scout",
-	    "movement":5,
-	    "strength":35,
-	    "cost":180,
-	    "requiredTech":"Steam Power",
-	    "uniques":[
-			"Ignores terrain cost"
-		],
-		"attackSound":"shot"
+	"unitType":"Scout",
+	"movement":5,
+	"strength":35,
+	"cost":180,
+	"requiredTech":"Steam Power",
+	"uniques":[
+		"Can see over obstacles"
+	]
+	"attackSound":"shot"
    },
    {
       "name":"AA Vehicle",
