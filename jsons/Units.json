@@ -147,9 +147,9 @@
       "requiredTech":"Rifling",
       "movement":2,
       "uniques":[
-         "Can build [Trench] improvements on tiles"
+         "Can instantly construct a [Trench] improvement <for [1] movement> <[3] times> <after which this unit is consumed>"
       ],
-      "cost":20
+      "cost": 300
    },
    {
       "name":"Bunker Worker",
@@ -157,9 +157,9 @@
       "requiredTech":"Industrialization",
       "movement":2,
       "uniques":[
-         "Can build [Bunker] improvements on tiles"
+         "Can instantly construct a [Bunker] improvement  <for [1] movement> <[3] times> <after which this unit is consumed>"
       ],
-      "cost":450
+      "cost": 350
    },
    {
       "name":"Flag Bearer",
@@ -182,7 +182,7 @@
       "uniques":[
          "[-50]% Strength <when attacking> <vs [Melee] units>",
          "[-50]% Strength <when attacking> <vs [Ranged] units>",
-         "Can transform to [Infantry]",
+         "Can transform to [Infantry] <for [1] movement>",
       ],
       "attackSound":"shot"
    },
