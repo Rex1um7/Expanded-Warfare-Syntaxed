@@ -2,6 +2,7 @@
 	{
 		"name":"Trench",
 		"techRequired":"Rifling",
+		"turnsToBuild": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques":[
 			"Can be built outside your borders",
@@ -11,6 +12,7 @@
 	{
 		"name":"Bunker",
 		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
 		"techRequired":"Replaceable Parts",
 		"uniques":[
 			"Can be built outside your borders",
