@@ -147,7 +147,7 @@
       "requiredTech":"Rifling",
       "movement":2,
       "uniques":[
-         "Can instantly construct a [Trench] improvement <for [1] movement> <[3] times> <after which this unit is consumed>"
+	      	"Can build [Trench] improvements on tiles"
       ],
       "cost": 300
    },
@@ -157,7 +157,7 @@
       "requiredTech":"Industrialization",
       "movement":2,
       "uniques":[
-         "Can instantly construct a [Bunker] improvement  <for [1] movement> <[3] times> <after which this unit is consumed>"
+	      	"Can build [Bunker] improvements on tiles"
       ],
       "cost": 350
    },
