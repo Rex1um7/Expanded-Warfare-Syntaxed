@@ -2,7 +2,7 @@
 	{
 		"name":"Trench",
 		"techRequired":"Rifling",
-		"turnsToBuild": 2,
+		"turnsToBuild": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques":[
 			"Can be built outside your borders",
