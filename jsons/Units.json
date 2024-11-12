@@ -145,7 +145,7 @@
       "name":"Trench Digger",
       "unitType":"Civilian",
       "requiredTech":"Rifling",
-      "movement":2,
+      "movement":3,
       "uniques":[
 	      	"Can build [Trench] improvements on tiles"
       ],
@@ -155,7 +155,7 @@
       "name":"Bunker Worker",
       "unitType":"Civilian",
       "requiredTech":"Industrialization",
-      "movement":2,
+      "movement":3,
       "uniques":[
 	      	"Can build [Bunker] improvements on tiles"
       ],
