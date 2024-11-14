@@ -5,7 +5,7 @@
         },
         {
                 "name": "Snipe I",
-                "uniques": ["[+33]% Strength <when attacking>"],
+                "uniques": ["[+33]% Strength <when attacking>","[+25]% XP gained from combat"],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe"],
         },
