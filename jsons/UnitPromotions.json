@@ -2,18 +2,18 @@
         {
                 "name": "Snipe I",
                 "uniques": ["[+33]% Strength <when attacking>"],
-                "unitTypes": ["Sniper"],
+                "unitTypes": ["Sniper, Great War Sniper"],
         },
         {
                 "name": "Snipe II",
                 "uniques": ["[+33]% Strength <when attacking>"],
-                "unitTypes": ["Sniper"],
+                "unitTypes": ["Sniper, Great War Sniper"],
                 "prerequisites": ["Snipe I"],
         },
         {
                 "name": "Snipe III",
                 "uniques": ["[+33]% Strength <when attacking>"],
-                "unitTypes": ["Sniper"],
+                "unitTypes": ["Sniper, Great War Sniper"],
                 "prerequisites": ["Snipe II"],
         },
 ]
