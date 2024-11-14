@@ -1,7 +1,17 @@
 [
         {
+                "name": "Snipe",
+                "uniques": ["Access to Snipe I"],
+                "civilopediaText":[
+                        {
+                                "link":"UnitPromotions/Snipe I",
+                        }
+                ]
+        },
+        {
                 "name": "Snipe I",
                 "uniques": ["[+33]% Strength <when attacking>"],
+                "prerequisites": ["Snipe"],
         },
         {
                 "name": "Snipe II",
