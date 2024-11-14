@@ -87,6 +87,7 @@
       "requiredTech":"Replaceable Parts",
       "upgradesTo":"Sniper",
       "obsoleteTech":"Plastics",
+	"promotions": ["Snipe"],
       "uniques":[
          	"[+200]% Strength <when attacking> <vs [Melee] units>",
 		"[+100]% Strength <when attacking> <vs [Ranged] units>",
@@ -106,6 +107,7 @@
       "rangedStrength":30,
       "cost":400,
       "requiredTech":"Plastics",
+	"promotions": ["Snipe"],
       "uniques":[
          	"[+500]% Strength <when attacking> <vs [{non-[Armored]} {Land}] units>",
         	"No defensive terrain bonus",
