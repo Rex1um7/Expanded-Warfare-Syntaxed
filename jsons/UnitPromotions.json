@@ -5,19 +5,19 @@
         },
         {
                 "name": "Snipe I",
-                "uniques": ["[+33]% Strength <when attacking>","[+25]% XP gained from combat"],
+                "uniques": ["[+50]% Strength <when attacking>"],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe"],
         },
         {
                 "name": "Snipe II",
-                "uniques": ["[+33]% Strength <when attacking>"],
+                "uniques": ["[+50]% Strength <when attacking>","[+25]% XP gained from combat"],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe I"],
         },
         {
                 "name": "Snipe III",
-                "uniques": ["[+33]% Strength <when attacking>"],
+                "uniques": ["[+50]% Strength <when attacking>","[+25]% XP gained from combat"],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe II"],
         },
