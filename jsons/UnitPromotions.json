@@ -1,12 +1,7 @@
 [
         {
                 "name": "Snipe",
-                "uniques": ["Access to Snipe I"],
-                "civilopediaText":[
-                        {
-                                "link":"UnitPromotions/Snipe I",
-                        }
-                ]
+                "uniques": ["Access to [Snipe I]"],
         },
         {
                 "name": "Snipe I",
