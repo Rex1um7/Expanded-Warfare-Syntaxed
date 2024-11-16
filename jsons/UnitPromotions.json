@@ -5,19 +5,30 @@
         },
         {
                 "name": "Snipe I",
-                "uniques": ["[+50]% Strength <when attacking>"],
+                "uniques": [
+                        "[+50]% Strength <when attacking>",
+                        "[+100]% weight to this choice for AI decisions",
+                ],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe"],
         },
         {
                 "name": "Snipe II",
-                "uniques": ["[+50]% Strength <when attacking>","[+25]% XP gained from combat"],
+                "uniques": [
+                        "[+50]% Strength <when attacking>",
+                        "[+25]% XP gained from combat",
+                        "[+100]% weight to this choice for AI decisions",
+                ],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe I"],
         },
         {
                 "name": "Snipe III",
-                "uniques": ["[+50]% Strength <when attacking>","[+25]% XP gained from combat"],
+                "uniques": [
+                        "[+50]% Strength <when attacking>",
+                        "[+25]% XP gained from combat",
+                        "[+100]% weight to this choice for AI decisions",
+                ],
                 "unitTypes":["Ranged Gunpowder"],
                 "prerequisites": ["Snipe II"],
         },
