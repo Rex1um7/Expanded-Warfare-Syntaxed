@@ -145,7 +145,6 @@ UnitIcons/Flag Bearer
   offset: 0, 0
   index: -1
 
-
 TileSetsUnit.png
 size: 1250, 1788
 format: RGBA8888
@@ -165,7 +164,7 @@ TileSets/HexaRealm/Units/Tank Destroyer
   orig: 1250, 890
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/AA Vehicle
   rotate: false
   xy: 0, 898
@@ -200,7 +199,7 @@ TileSets/HexaRealm/Units/Bandits
   orig: 1000, 1000
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/Flag Bearer
   rotate: false
   xy: 0, 86
@@ -215,7 +214,7 @@ TileSets/HexaRealm/Units/Flag Bearer
   orig: 967,952
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/Scout Car
   rotate: false
   xy: 1008, 748
@@ -230,7 +229,7 @@ TileSets/HexaRealm/Units/Scout Car
   orig: 847, 730
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/Multi Rocket Launcher
   rotate: false
   xy: 1008, 1486
@@ -245,7 +244,7 @@ TileSets/HexaRealm/Units/Multi Rocket Launcher
   orig: 930, 560
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/Sniper
   rotate: false
   xy: 975, 0
@@ -280,7 +279,7 @@ TileSets/HexaRealm/Units/Great War Sniper
   orig: 568, 766
   offset: 0, 0
   index: -1
-
+//
 TileSets/FantasyHex/Units/Grenadier(Ranged)
   rotate: false
   xy: 0, 0
