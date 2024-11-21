@@ -165,13 +165,6 @@ TileSets/HexaRealm/Units/Tank Destroyer
   orig: 1250, 890
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Tank Destroyer
- rotate: false
-  xy: 0, 0
-  size: 1250, 890
-  orig: 1250, 890
-  offset: 0, 0
-  index: -1
 
 TileSets/FantasyHex/Units/AA Vehicle
   rotate: false
@@ -181,13 +174,6 @@ TileSets/FantasyHex/Units/AA Vehicle
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/AA Vehicle
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/AA Vehicle
  rotate: false
   xy: 0, 898
   size: 1250,890
@@ -214,13 +200,6 @@ TileSets/HexaRealm/Units/Bandits
   orig: 1000, 1000
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Bandits
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
-  offset: 0, 0
-  index: -1
 
 TileSets/FantasyHex/Units/Flag Bearer
   rotate: false
@@ -234,13 +213,6 @@ TileSets/HexaRealm/Units/Flag Bearer
   xy: 0, 86
   size: 967,952
   orig: 967,952
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Flag Bearer
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
   offset: 0, 0
   index: -1
 
@@ -258,13 +230,6 @@ TileSets/HexaRealm/Units/Scout Car
   orig: 847, 730
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Scout Car
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
-  offset: 0, 0
-  index: -1
 
 TileSets/FantasyHex/Units/Multi Rocket Launcher
   rotate: false
@@ -278,13 +243,6 @@ TileSets/HexaRealm/Units/Multi Rocket Launcher
   xy: 1008, 1486
   size: 930, 560
   orig: 930, 560
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Multi Rocket Launcher
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
   offset: 0, 0
   index: -1
 
@@ -302,13 +260,6 @@ TileSets/HexaRealm/Units/Sniper
   orig: 820, 740
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Sniper
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
-  offset: 0, 0
-  index: -1
 
 TileSetsUnit3.png
 size: 1144, 766
@@ -317,23 +268,16 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Great War Sniper
   rotate: false
-  xy: 0, 576
+  xy: 576, 0
   size: 568, 766
   orig: 568, 766
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Sniper
  rotate: false
-  xy: 0, 576
+  xy: 576, 0
   size: 568, 766
   orig: 568, 766
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Great War Sniper
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
   offset: 0, 0
   index: -1
 
@@ -349,12 +293,5 @@ TileSets/HexaRealm/Units/Grenadier(Ranged)
   xy: 0, 0
   size: 568, 766
   orig: 568, 766
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Grenadier(Ranged)
- rotate: false
-  xy: 0, 898
-  size: 1250,890
-  orig: 1250,890
   offset: 0, 0
   index: -1
