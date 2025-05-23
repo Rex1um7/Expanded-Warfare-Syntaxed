@@ -134,7 +134,7 @@
       "movement":2,
       "strength":20,
       "range":2,
-      "rangedStrength":44,
+      "rangedStrength": 50,
       "cost":375,
       "requiredTech":"Combustion",
       "uniques":[
@@ -151,7 +151,7 @@
       "uniques":[
 	      	"Can build [Trench] improvements on tiles"
       ],
-      "cost": 300
+      "cost": 200
    },
    {
       "name":"Bunker Worker",
@@ -161,7 +161,7 @@
       "uniques":[
 	      	"Can build [Bunker] improvements on tiles"
       ],
-      "cost": 350
+      "cost": 200
    },
    {
       "name":"Flag Bearer",
@@ -171,7 +171,7 @@
       "uniques":[
          "[+10]% Strength bonus for [Military] units within [2] tiles"
       ],
-      "cost":250
+      "cost": 250
    },
    {
       "name":"APC",
@@ -191,8 +191,8 @@
 	{
       	"name":"Scout Car",
 	"unitType":"Scout",
-	"movement":5,
-	"strength":35,
+	"movement": 5,
+	"strength": 40,
 	"cost":180,
 	"requiredTech":"Steam Power",
 	"uniques":[
@@ -205,7 +205,7 @@
       "unitType":"Armored",
       "movement":4,
       "interceptRange":2,
-      "strength":40,
+      "strength": 45,
       "cost":450,
       "requiredTech":"Computers",
       "requiredResource":"Oil",
@@ -226,7 +226,8 @@
       "requiredTech":"Dynamite",
       "uniques":[
          "[+250]% Strength <when attacking> <vs [Ranged] units>",
-         "[+250]% Strength <when attacking> <vs [Melee] units>"
+         "[+250]% Strength <when attacking> <vs [{Melee} {non-[Armored]}] units>",
+	      "[+125]% Strength <when attacking> <vs [Armored] units>",
       ]
    }
 ]
