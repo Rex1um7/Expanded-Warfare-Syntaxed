@@ -118,7 +118,7 @@
    },
    {
       "name":"Tank Destroyer",
-      "unitType":"Armor",
+      "unitType":"Armored",
       "movement":4,
       "strength":64,
       "cost":436,
