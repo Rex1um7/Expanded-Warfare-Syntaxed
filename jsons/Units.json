@@ -65,14 +65,14 @@
       "cost":495,
       "requiredTech":"Rocketry",
       "promotions":[
-         "Logistics"
+         "Logistics",
+	"Indirect Fire",
       ],
       "requiredResource":"Iron",
       "uniques":[
          "[+200]% Strength <when attacking> <vs cities>",
          "No defensive terrain bonus",
          "[-1] Sight",
-         "Ranged attacks may be performed over obstacles"
       ]
    },
    
